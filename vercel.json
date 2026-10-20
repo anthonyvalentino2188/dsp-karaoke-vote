@@ -1,0 +1,6 @@
+{
+  "redirects": [
+    { "source": "/", "destination": "https://script.google.com/macros/s/AKfycbxhajMsI2gbJrwYX8-eLEDxapN3AHkeVqsf7Cz58nJgnR-9RN1ZYU9gydNYzgnpraMsNg/exec", "permanent": false },
+    { "source": "/vote", "destination": "https://script.google.com/macros/s/AKfycbxhajMsI2gbJrwYX8-eLEDxapN3AHkeVqsf7Cz58nJgnR-9RN1ZYU9gydNYzgnpraMsNg/exec", "permanent": false }
+  ]
+}
